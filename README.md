@@ -49,9 +49,9 @@ END_SECTION:activity
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <!--<img align="left" alt="michaelekornrud's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=michaelekornrud&show_icons=true&hide_border=true" />-->
+  <!-- General Stats -->
   [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelekornrud)](https://github.com/anuraghazra/github-readme-stats)
-
+  <!-- Language stats -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelekornrud)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
