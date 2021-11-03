@@ -14,7 +14,7 @@
 <!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
 [website]: https://ekornrud.no
-[twitter]: https://twitter.com/EkornrudMichael
+[twitter]: https://twitter.com/omekornrud
 [youtube]: https://www.youtube.com/channel/UCJqDm9x2SObOYKjwqZwywxQhttps://www.youtube.com/channel/UCJqDm9x2SObOYKjwqZwywxQ
 [linkedin]: https://www.linkedin.com/in/michael-ekornrud-662465223/
 
