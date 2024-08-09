@@ -2,8 +2,7 @@
 
 - 🌱 Eager to learn
 - 👯 I'm looking to collaborate with people
-- 🥅 2021 Goals: Finish my bots and deploy a website
-- ⚡ Fun fact: I really enjoy indian food, but I cant stand spicy food
+
 
 ### Connect with me:
 
