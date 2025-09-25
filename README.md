@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
@@ -15,7 +15,7 @@
 [website]: https://ekornrud.no
 [twitter]: https://twitter.com/omekornrud
 [youtube]: https://www.youtube.com/channel/UCJqDm9x2SObOYKjwqZwywxQhttps://www.youtube.com/channel/UCJqDm9x2SObOYKjwqZwywxQ
-[linkedin]: https://www.linkedin.com/in/michael-ekornrud-662465223/
+[linkedin]: https://www.linkedin.com/in/michael-ekornrud/
 
 <br />
 
