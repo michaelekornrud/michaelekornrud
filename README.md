@@ -3,7 +3,7 @@ Hi! I'm a data engineer and backend developer with experience from critical syst
 
 <a href="https://ekornrud.no">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
     <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="filter: invert(1);">
   </picture>
    ekornrud.no
