@@ -1,8 +1,10 @@
 # 💫 About Me:
 Hi! I'm a data engineer and backend developer with experience from critical systems at DNB and Å Energi. I enjoy working across the data pipeline — from collection and validation to modeling and analysis — with a particular interest in data quality, automation, and real-time processing.<br><br>I mostly work with Java, Python, SQL, Docker, Spring Boot, and cloud platforms like AWS and Azure. I'm curious, structured, and motivated by solving complex problems, whether independently or as part of a team. In my free time, I explore new technologies and build small projects, often with a focus on data science and AI.<br>
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-light-mode-only" />][website]
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-dark-mode-only" style="filter: invert(1);" />][website] **ekornrud.no**
+<a href="https://ekornrud.no">
+  <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-light-mode-only" />
+  <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-dark-mode-only" style="filter: invert(1);" />
+</a> ekornrud.no
 
 [website]: https://ekornrud.no
 
