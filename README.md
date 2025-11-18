@@ -6,8 +6,6 @@ Hi! I'm a data engineer and backend developer with experience from critical syst
   <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#gh-dark-mode-only" style="filter: invert(1);" />
 </a> ekornrud.no
 
-[website]: https://ekornrud.no
-
 ---
 
 
